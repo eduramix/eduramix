@@ -1,5 +1,5 @@
-Hello, I`m Eduardo Ramirez. Welcome to my profile!
+Hola, soy Eduardo Ramírez. Bienvenidos a mi perfil!.
 
--Python Beginner
+-Principiante en Python.
 
--Learning about Web Dev tools
+-Aprendiendo sobre herramientas de Desarrollo Web.
