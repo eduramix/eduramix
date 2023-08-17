@@ -1,4 +1,4 @@
-Hello, I`m Eduardo Ramírez!. Welcome to my profile
+Hello, I`m Eduardo Ramirez. Welcome to my profile!
 
 -Python Beginner
 
